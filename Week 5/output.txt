@@ -1,0 +1,27 @@
+include is identifier
+ < is Relational operator Lessthan operator
+ stdio is identifier
+ . is float
+ h is identifier
+ > is Relational operator Greaterthan operator 
+ int is keyword 
+ main is keyword 
+ int is keyword
+ a is identifier
+ b is identifier
+ = is Assignment operator
+ 3.14 is float
+ c is identifier
+ = is Assignment operator
+ 12 is digit
+ if is identifier
+ a is identifier
+ >= is Relational operator Greaterthan or Equal to operator
+ b is identifier
+ Single line comment..
+ else is identifier
+ Multi line comment starts..
+ Multi line comment ends..
+ printf is identifier
+ Hello is identifier
+ return is identifier
