@@ -8,7 +8,7 @@
 
 %%
 
-S : E EOL    { printf("Valid expression\nResult is %d\n",$1); }
+S : E EOL    { printf("Valid expression\nResult is %d\n",$1); exit(0); }
   ;
 
 E : E '+' T    {$$ = $1 + $3; }
