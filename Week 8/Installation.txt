@@ -1,0 +1,11 @@
+sudo apt-get install flex bison 
+(For linux)
+
+
+
+Compile and Run :
+
+lex parser.l
+yacc -d parser.y
+gcc lex.yy.c y.tab.c -o parser -ll
+./parser
